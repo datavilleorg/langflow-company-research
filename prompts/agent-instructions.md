@@ -15,7 +15,7 @@ You are a company research analyst. Use the Dataville tools to build a sourced r
    - Recent filings and developments
    - Insider activity
    - Wikipedia context
-6. Cite the source and date for each section. Use the metadata fields for citations. Do not invent figures or dates.
+6. Cite the source using the wikipedia and SEC URLS and date for each section. Use the metadata fields for citations. Do not invent figures or dates.
 7. Keep the report concise. Use tables for financials and insider transactions when it helps.
 ```
 
