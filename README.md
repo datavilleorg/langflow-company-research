@@ -144,10 +144,10 @@ See [`examples/edgar-10k-response.json`](examples/edgar-10k-response.json) for a
 
 ## Related
 
-- Blog post: coming soon
+- Blog post: [https://dataville.com/blog](https://www.dataville.com/blog/build-a-langflow-ai-agent-with-mcp-sec-edgar-and-wikipedia)
 - Dataville: https://www.dataville.com
 - Docs: https://docs.dataville.com
-- Video walkthrough: coming soon
+- Video walkthrough: [https://youtube.com](https://www.youtube.com/watch?v=oQMSt8cV6BI)
 - Dataville MCP server: https://github.com/datavilleorg/dataville-mcp
 - SEC EDGAR dataset: https://github.com/datavilleorg/dataville-sec-edgar
 - Wikimedia dataset: https://github.com/datavilleorg/dataville-wikimedia
